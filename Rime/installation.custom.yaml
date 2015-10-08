@@ -1,0 +1,5 @@
+# 定义配置文件同步到 Dropbox 文件夹
+
+patch:
+    installation_id: "MungYuLin"    #自定义个人文件夹的名字
+    sync_dir: '/Users/MungYuLin/Dropbox/Sync/RimeSync' #同步路徑
